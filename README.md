@@ -57,6 +57,8 @@ The API you choose for your app is going to be a huge part of your project. Maki
   - What data will you use from it?
 - Anything else that will help us understand what you are creating!
 
+Not sure where to start? Try going to [the list of public APIs](https://github.com/toddmotto/public-apis) and finding one that sounds interesting!
+
 ---
 
 ### Example Ideas
