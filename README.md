@@ -47,7 +47,7 @@ Your app must:
 
 ### Project Proposal DUE TONIGHT April 28
 
-The API you choose for your app is going to be a huge part of your project. Making sure you find the right one is essential. Tonight research different APIs and think about what you want to do. MAKE SURE TO TEST OUT YOUR API END POINT!!! You don't want to run into any surprises about what data you will be getting back. Open up an issue on this repository with the following:
+The API you choose for your app is going to be a huge part of your project. Making sure you find the right one is essential. Tonight research different APIs and think about what you want to do. **MAKE SURE TO TEST OUT YOUR API END POINT!!!** You don't want to run into any surprises about what data you will be getting back. Open up an issue on this repository with the following:
 
 - Name of your app 
 - What the app will do?
