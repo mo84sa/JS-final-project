@@ -1,0 +1,12 @@
+Name of your app ?
+Current weather.
+What the app will do?
+ it show the weather on map click
+What API will you use? 
+weather API, 
+An example endpoint
+What data will you use from it?
+broadcast weather
+ 
+Anything else that will help us understand what you are creating! 
+I will try to make it better
